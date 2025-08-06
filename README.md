@@ -40,6 +40,15 @@ clean, maintainable code
 ---
 
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpaswan619&layout=compact&theme=tokyonight&hide_border=true"
+height="150" />
+</p>
+
+---
+
 
 
 
